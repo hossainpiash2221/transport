@@ -1,0 +1,23 @@
+[
+  {
+    "id": 2,
+    "name": "n",
+    "busNumber": "Bus 1",
+    "pickupLocation": "Mirpur-11",
+    "preferredTime": "04:24"
+  },
+  {
+    "id": 3,
+    "name": "Piash",
+    "busNumber": "3",
+    "pickupLocation": "ecb",
+    "preferredTime": "20:30"
+  },
+  {
+    "id": 4,
+    "name": "Hb",
+    "busNumber": "3",
+    "pickupLocation": "kuril",
+    "preferredTime": "08:45"
+  }
+]
